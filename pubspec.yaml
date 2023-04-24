@@ -6,7 +6,7 @@ author: Jeff Lee <jspschool@gmail.com>
 homepage: https://github.com/jspschool/tweetnacl-dart
 
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  sdk: '>=2.19.2 <3.0.0'
 
 dependencies:
   fixnum: ^0.10.9
