@@ -9,7 +9,7 @@ environment:
   sdk: '>=2.19.2 <3.0.0'
 
 dependencies:
-  fixnum: ^0.10.9
+  fixnum: ^1.1.0
   convert: ^3.0.0
 
 dev_dependencies:
